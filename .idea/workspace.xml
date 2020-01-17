@@ -36,6 +36,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="sxx &lt;sxx.970123@gmail.com&gt;" />
         <option value="Vsufi" />
         <option value="史晓雪" />
       </list>
@@ -140,11 +141,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1579084187269" />
-    <state x="362" y="74" key="CommitChangelistDialog2" timestamp="1579252756836">
+    <state x="362" y="74" key="CommitChangelistDialog2" timestamp="1579252804161">
       <screen x="62" y="23" width="1378" height="877" />
     </state>
     <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1579179350528" />
-    <state x="362" y="74" key="CommitChangelistDialog2/62.23.1378.877@62.23.1378.877" timestamp="1579252756836" />
+    <state x="362" y="74" key="CommitChangelistDialog2/62.23.1378.877@62.23.1378.877" timestamp="1579252804161" />
     <state width="1419" height="210" key="GridCell.Tab.0.bottom" timestamp="1579083385644">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
