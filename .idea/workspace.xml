@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eacfa70c-9936-436b-ad4e-5ed460ec71da" name="Default Changelist" comment="" />
+    <list default="true" id="eacfa70c-9936-436b-ad4e-5ed460ec71da" name="Default Changelist" comment="修改图标无法显示和轮播的问题">
+      <change afterPath="$PROJECT_DIR$/img/huafei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jipiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jiudian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/youxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="shixiaoxue-jd" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,6 +33,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Vsufi" />
+        <option value="史晓雪" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -23,14 +49,19 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1WHt8cZiUu8D4bGqltveU8T2TLM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -82,14 +113,25 @@
       <option name="presentableId" value="Default" />
       <updated>1578818190135</updated>
       <workItem from="1578818195158" duration="67857000" />
-      <workItem from="1579084747736" duration="7093000" />
+      <workItem from="1579084747736" duration="7527000" />
+      <workItem from="1579178964580" duration="1083000" />
+      <workItem from="1579249935351" duration="2492000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="修改图标无法显示和轮播的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改图标无法显示和轮播的问题" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="542" y="127" key="#Notifications" timestamp="1579252769285">
+      <screen x="62" y="23" width="1378" height="877" />
+    </state>
+    <state x="542" y="127" key="#Notifications/62.23.1378.877@62.23.1378.877" timestamp="1579252769285" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578828547388">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -98,6 +140,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1579084187269" />
+    <state x="362" y="74" key="CommitChangelistDialog2" timestamp="1579252756836">
+      <screen x="62" y="23" width="1378" height="877" />
+    </state>
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1579179350528" />
+    <state x="362" y="74" key="CommitChangelistDialog2/62.23.1378.877@62.23.1378.877" timestamp="1579252756836" />
     <state width="1419" height="210" key="GridCell.Tab.0.bottom" timestamp="1579083385644">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
